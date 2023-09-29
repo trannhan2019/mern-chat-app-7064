@@ -1,0 +1,23 @@
+✓ 01 Giới thiệu.
+✓ 02 Front End Setup.
+✓ 03 Register và Login UI.
+✓ 04 Backend Setup.
+✓ 05 Register và Login Backend.
+✓ 06 Authorization.
+✓ 07 Redux Setup.
+✓ 08 Home Screen.
+✓ 09 Chats.
+✓ 10 Messages.
+✓ 11 Unread Messages.
+✓ 12 Giới thiệu Sockets.
+✓ 13 Realtime messages.
+✓ 14 Unread Messages và Read Receipts.
+✓ 15 Typing và Online Users.
+✓ 16 Emojis và Image sharing.
+✓ 17 Bug Fixes và Deployment.
+
+MÃ KHÓA HỌC TÌM KIẾM TRÊN DRIVE: 7064
+THƯ MỤC TRÊN DRIVE: KHÓA HỌC UPDATE THÁNG 2023-09
+
+https://github.com/sathyaprakash195/sheychat-udemy
+
